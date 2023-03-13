@@ -2,7 +2,7 @@
 require 'environment.php';
 
 define('VERSION', '1.0.0');
-define('KEY_API_GOOGLE', '1.0.0');
+define('KEY_API_GOOGLE', 'AIzaSyCQCEHpwO38cwlUuyZcPWTxi_kfSvsKte4');
 
 global $config;
 global $db;
